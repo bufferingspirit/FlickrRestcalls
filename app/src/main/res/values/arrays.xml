@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="options">options>
+        <item>Show Full Image</item>
+        <item>Show Small Image</item>
+    </array>
+
+</resources>
